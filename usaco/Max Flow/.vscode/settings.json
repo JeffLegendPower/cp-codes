@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "__locale": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp",
+        "__bit_reference": "cpp",
+        "__mutex_base": "cpp",
+        "__node_handle": "cpp",
+        "array": "cpp",
+        "istream": "cpp",
+        "optional": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "string_view": "cpp",
+        "variant": "cpp",
+        "vector": "cpp",
+        "ratio": "cpp"
+    }
+}

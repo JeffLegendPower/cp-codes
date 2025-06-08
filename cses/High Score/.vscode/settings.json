@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "limits": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "__locale": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}

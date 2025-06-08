@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "__node_handle": "cpp",
+        "limits": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp"
+    }
+}

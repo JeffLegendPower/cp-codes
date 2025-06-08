@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "complex": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp"
+    }
+}

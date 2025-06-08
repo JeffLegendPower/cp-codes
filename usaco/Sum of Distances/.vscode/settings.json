@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "system_error": "cpp",
+        "vector": "cpp",
+        "__string": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "atomic": "cpp",
+        "ios": "cpp",
+        "unordered_map": "cpp",
+        "ostream": "cpp"
+    }
+}

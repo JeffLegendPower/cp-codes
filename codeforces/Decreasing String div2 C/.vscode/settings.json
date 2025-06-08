@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "locale": "cpp",
+        "string": "cpp",
+        "__hash_table": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "bitset": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}

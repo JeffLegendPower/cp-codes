@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "limits": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "__string": "cpp"
+    }
+}

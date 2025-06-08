@@ -1,0 +1,1 @@
+{"name":"Local: frog","url":"/Users/ishaangoyal/Desktop/USACO:Codeforces/szkopul/Task Frog (zab)/frog.cpp","tests":[{"id":1735785224914,"input":"5 2 4\n1 2 4 7 10","output":"1 1 3 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ishaangoyal/Desktop/USACO:Codeforces/szkopul/Task Frog (zab)/frog.cpp","group":"local","local":true}
